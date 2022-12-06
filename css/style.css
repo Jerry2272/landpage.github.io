@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    font-family:'Inter';
+}
+.navbar{
+    margin-left: -12px;
+    margin-right: -12px;
+    height: 114px;
+    max-width:1440px;
+}
+.navbar-nav{
+    margin-left: 12em;
+}
+.navbar-brand{
+height: 96px;
+width: 190px;
+}
+.nav-link{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    color: #091819;
+}
+#book{
+    margin-left: 30px;
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+border-radius: 4px;
+padding: 16px 35px 16px 35px;
+background: #0BD4B0;
+color: white;
+}
+
+
+
+
+
+@media (max-width: 642px){
+ #book{
+    padding: 8px 14px 8px 14px;
+ }
+} 
